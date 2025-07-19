@@ -3,16 +3,10 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=CS+Student+%7C+AI+ML+Practitioner+%7C+UI%2FUX+Designer+%7C+Event+Organizer;Always%20learning%20and%20building%20✨&center=true&width=600&height=45">
-</p>
-
----
-
 ### 👨‍💻 About Me
 
 - 💻 I'm a CSE (AIML) undergrad at **Techno Main Salt Lake**
-- 🧠 I work on **Machine Learning**, **Full Stack Projects**, and **User-Centered Interfaces**
+- 🧠 I work on **Machine Learning**, **Web Development**, and **User-Centered Interfaces**
 - ⚡ I believe in building for **impact**, not just code
 - 🌱 Currently learning: **Java OOP**, **Deployment**, and **Prompt Engineering**
 - 📬 Reach me at: **shubhankarbanerjee0707@gmail.com**
@@ -22,7 +16,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,figma,react,streamlit,flask,git,github,vscode,mongodb,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,figma,,steamlit,flask,git,github,vscode,sql,mongodb,bootstrap" />
 </p>
 
 ---
