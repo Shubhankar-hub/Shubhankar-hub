@@ -82,12 +82,3 @@
 
 
 ---
-
-### 📅 Weekly Development Breakdown
-
-<!-- Optional — You can enable it via wakatime if you set up tracking -->
-<!-- 
-```text
-Python       ████████████░░░░░░  60%
-HTML/CSS     ███████░░░░░░░░░░  25%
-JavaScript   ████░░░░░░░░░░░░░  15%
