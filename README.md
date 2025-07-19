@@ -13,7 +13,6 @@
 
 - 💻 I'm a CSE (AIML) undergrad at **Techno Main Salt Lake**
 - 🧠 I work on **Machine Learning**, **Full Stack Projects**, and **User-Centered Interfaces**
-- 🎤 I’m the **Co-Head of PR & Outreach** at **IIC-TMSL**, where I organize tech talks, workshops & startup bootcamps
 - ⚡ I believe in building for **impact**, not just code
 - 🌱 Currently learning: **Java OOP**, **Deployment**, and **Prompt Engineering**
 - 📬 Reach me at: **shubhankarbanerjee0707@gmail.com**
@@ -61,9 +60,6 @@
 - 🌦️ [Weather Wizard](https://github.com/Shubhankar-hub/Weather)  
   `HTML · CSS · JavaScript · Weather API`
 
-- 🇮🇳 [India Cultural Heritage Website](https://github.com/Shubhankar-hub)  
-  `Responsive · Interactive UI · Frontend Showcase`
-
 ---
 
 ### 💬 Ask Me About
@@ -80,7 +76,6 @@
 <p align="center">
   <a href="mailto:shubhankarbanerjee0707@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/Shubhankar-hub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-coming_soon-blue?style=for-the-badge"></a>
 </p>
 
 ---
