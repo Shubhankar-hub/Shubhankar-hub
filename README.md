@@ -49,7 +49,8 @@
 
 ### 📌 Highlighted Projects
 
-- 🎬 [Movie Recommender System](https://github.com/Shubhankar-hub/AI)  
+- 🎬 [Movie Recommender System](https://github.com/Shubhankar-hub/MovieRecommender-System-v2)
+
   `Python · Streamlit · TMDB API · Pickle`
 
 - 🌦️ [Weather Wizard](https://github.com/Shubhankar-hub/Weather)  
