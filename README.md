@@ -16,8 +16,9 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,figma,,steamlit,flask,git,github,vscode,sql,mongodb,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,figma,streamlit,flask,git,github,vscode,sql,mongodb,bootstrap,powerbi" />
 </p>
+
 
 ---
 
