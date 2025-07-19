@@ -49,7 +49,7 @@
 
 ### 📌 Highlighted Projects
 
-- 🎬 [Movie Recommender System](https://github.com/Shubhankar-hub/MovieRecommender-System-v2)
+- 🎬 [Movie Recommender System](https://github.com/Shubhankar-hub/movie-recommender-system-v2)
 
   `Python · Streamlit · TMDB API · Pickle`
 
